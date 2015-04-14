@@ -1,0 +1,16 @@
+{
+  "name": "bluelake-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Nemo",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.2.0",
+    "request": "^2.55.0",
+    "uuid": "^2.0.1"
+  }
+}
