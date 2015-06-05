@@ -9,6 +9,7 @@
   "author": "Nemo",
   "license": "ISC",
   "dependencies": {
+    "log4js": "^0.6.25",
     "q": "^1.2.0",
     "request": "^2.55.0",
     "uuid": "^2.0.1"
